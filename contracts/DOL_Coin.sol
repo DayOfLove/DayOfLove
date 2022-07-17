@@ -1,14 +1,5 @@
-/**
- *Submitted for verification at BscScan.com on 2022-05-12
-*/
-
-/**
- *Submitted for verification at BscScan.com on 2022-02-18
-*/
-
 // SPDX-License-Identifier: Unlicensed
-//
-// SAFUU PROTOCOL COPYRIGHT (C) 2022
+
 
 pragma solidity ^0.7.4;
 
